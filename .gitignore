@@ -1,0 +1,7 @@
+saved_results/
+__pycache__/
+*.mp4
+*.png
+*.csv
+.DS_Store
+
